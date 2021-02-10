@@ -1,4 +1,10 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Now Sydney is editing it
 changing alice.txt on change_alice branch
 
+=======
+And here is a second line some guy put in. Then he added more to make a merge conflict.
+And here's even more text for the rebasing exercise. Along with a new change to demonstrate (and subsequentially ruin) fetch!
+committing via github.com!
+>>>>>>> 735a2700fe59f0c91a81ffb8220b49c28d98b91f
